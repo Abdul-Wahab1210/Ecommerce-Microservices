@@ -1,0 +1,15 @@
+# Node
+node_modules
+.env
+dist
+
+# Logs
+logs
+*.log
+
+# Editor
+.vscode
+.DS_Store
+
+# Frontend build
+frontend/dist
